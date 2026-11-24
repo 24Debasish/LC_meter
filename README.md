@@ -143,8 +143,11 @@ The prototype demonstrates the practical application of analog electronics, micr
 - Tanmoy Haldar
 - Surya Chatterjee
 - Dipak Paswan
-- Debashis Ghosh
+- Debasish Ghosh
 
-**Project Author:** Debashis Ghosh
+**Project Author:** Debasish Ghosh
 
-**Guided By:** Prof. Dr. Sukla Basu
+- **Email:** your-ghosh2001debasish@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/debasish-ghosh-410537263/
+
+
